@@ -3,6 +3,7 @@ class Programa {
     public static void main(String[] args) {
         String nombre = "Laura";
         saludo(nombre);
+        saludo(nombre);
     }
 //comentario de prueba
     public static void saludo(String nombre){ //se puede hacer funciones con el mismo nombre en la misma clase, pero deben recibir diferentes parametros
