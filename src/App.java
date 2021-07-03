@@ -1,8 +1,7 @@
 
 class Programa {
     public static void main(String[] args) {
-        String nombre = "Laura";
-        saludo(nombre);
+        String nombre = "Cathe";
         saludo(nombre);
     }
 //comentario de prueba
